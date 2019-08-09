@@ -1,4 +1,4 @@
-package main
+package j2s
 
 import (
 	"encoding/json"
@@ -62,10 +62,6 @@ var ResCodeDict = map[string]string{
 	"LMS0019": "Invalid Voucher WalletAddress",
 	"LMS0020": "Voucher is return value for expired",
 	"LMS0021": "HTP error insert data",
-}
-
-func main() {
-
 }
 
 //ParseArgsToStruct Parse args(string) to Struct
