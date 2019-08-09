@@ -1,4 +1,4 @@
-module ext
+module github.com/hungptse/json-to-struct
 
 go 1.12
 
